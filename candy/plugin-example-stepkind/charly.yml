@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-example-stepkind:
     candy:
-        version: 2026.182.0900
         description: |-
             Reference OUT-OF-TREE charly class:step plugin (F3) — a standalone Go module
             (go.mod + main.go) serving the `examplestepkind` install-step KIND over go-plugin
